@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://joshfabean.com">Blog</a> •
   <a href="https://twitter.com/fabean">Twitter</a> •
-  <a href="https://www.buymeacoffee.com/LSxne6Yr4"Coffee</a>
+  <a href="https://www.buymeacoffee.com/LSxne6Yr4">Coffee</a>
 </p>
 
 - 🔭 I’m currently working *Everything Drupal*
