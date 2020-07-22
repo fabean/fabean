@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Josh Fabean.</h2>
+<p align="center">
+  <a href="https://joshfabean.com">Blog</a> •
+  <a href="https://twitter.com/fabean">Twitter</a>
+</p>
+
+
+- 🔭 I’m currently working *Everything Drupal*
+- 🌱 I’m currently learning *how to be a better leader.*
+- 💬 Ask me about *Drupal, Linux, PHP, CSS and JavaScript*
+- 📫 How to reach me: [@joshfabean](https://twitter.com/joshfabean) on Twitter or [email from my website](https://joshfabean.com).
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
