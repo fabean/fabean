@@ -11,6 +11,9 @@
 - 📫 How to reach me: [@joshfabean](https://twitter.com/joshfabean) on Twitter or [email from my website](https://joshfabean.com).
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
