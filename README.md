@@ -15,7 +15,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-PHP          1 hr 1 min      ████████████████████████▓   99.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
