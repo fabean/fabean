@@ -16,7 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML             17 mins         ███████████░░░░░░░░░░░░░░   43.61 %
+PHP              8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+Twig             5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+JavaScript       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Docker           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Vue.js           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
