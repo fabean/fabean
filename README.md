@@ -8,7 +8,7 @@
 - 🔭 I’m currently working *Everything Drupal*
 - 🌱 I’m currently learning *how to be a better leader.*
 - 💬 Ask me about *Drupal, Linux, PHP, Docker, CSS and JavaScript*
-- 📫 How to reach me: [@joshfabean](https://twitter.com/joshfabean) on Twitter or [email from my website](https://joshfabean.com).
+- 📫 How to reach me: [email from my website](https://joshfabean.com).
 
 -------
 
