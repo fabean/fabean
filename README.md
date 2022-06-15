@@ -15,7 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Apache Config   9 mins          █████████████████▒░░░░░░░   68.94 %
+SCSS            2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+JavaScript      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Docker          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+PHP             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+YAML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
