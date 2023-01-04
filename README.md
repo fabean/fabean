@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP          2 hrs 6 mins    █████████████░░░░░░░░░░░░   51.99 %
+JavaScript   1 hr 21 mins    ████████▒░░░░░░░░░░░░░░░░   33.52 %
+YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Twig         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
