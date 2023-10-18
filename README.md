@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          15 mins         ███████████████░░░░░░░░░░   60.32 %
-Bash         8 mins          ████████░░░░░░░░░░░░░░░░░   31.60 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Twig         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
