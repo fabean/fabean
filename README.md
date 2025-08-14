@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working *Everything Drupal*
-- 🌱 I’m currently learning *how to be a better leader.*
+- 🌱 I’m currently learning *how to grow a better mullet.*
 - 💬 Ask me about *Drupal, Linux, PHP, Docker, CSS and JavaScript*
 - 📫 How to reach me: [email from my website](https://joshfabean.com).
 
